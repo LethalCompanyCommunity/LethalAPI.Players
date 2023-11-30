@@ -37,7 +37,7 @@ public class Plugin : LethalAPI.Core.Features.Plugin<Config>
     public override string Name => "LethalAPI.Players";
 
     /// <inheritdoc />
-    public override string Description => "PROJECT-DESCRIPTION";
+    public override string Description => "Player-related functionality for LethalAPI";
 
     /// <inheritdoc />
     public override string Author => "LethalAPI Modding Community";
